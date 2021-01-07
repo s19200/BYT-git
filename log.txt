@@ -1,0 +1,34 @@
+PS C:\Users\user\Desktop\BYT-git> git log --stat first.txt
+commit 72afd33d12f2a8a49e589f1c2386b941604d6f91 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 4b663f3 9cfebba
+Author: unknown <s19200@pjwstk.edu.pl>
+Date:   Thu Jan 7 16:05:30 2021 +0100
+
+    fixed
+
+commit 9cfebba8e9634f3c62b57245fc029278884ad3b7 (newBranch)
+Author: unknown <s19200@pjwstk.edu.pl>
+Date:   Thu Jan 7 15:52:39 2021 +0100
+
+    first changed on new branch
+
+ first.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 4b663f339c445f004adfa94f4576944eacb6ff54
+Author: unknown <s19200@pjwstk.edu.pl>
+Date:   Thu Jan 7 15:49:09 2021 +0100
+
+    first changed
+
+ first.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit c6d26d68585e909d5853dceca8f40c0a6322efde
+Author: unknown <s19200@pjwstk.edu.pl>
+Date:   Thu Jan 7 15:40:38 2021 +0100
+
+    second commit
+
+ first.txt | 1 +
+ 1 file changed, 1 insertion(+)
